@@ -1,0 +1,1 @@
+My solution to the Codecademy's project 'Getting Ready for Physics Class' in Python where I calculate some physics concepts like force, energy, work and make some transformations from farenheit to celsius degrees and vice versa.
